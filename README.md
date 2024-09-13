@@ -4,9 +4,9 @@
 
 Файлик .env_example
 
-`API_TOKEN` : Токен бота
+`API_TOKEN` : Токен бота (в кавычках)
 
-`ADMIN_ID` : id админа (в ковычках)
+`ADMIN_ID` : id админа (в кавычках)
 
 `CHANNEL_ID` : id канала где будут посты
 
